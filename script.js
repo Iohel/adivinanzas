@@ -8,6 +8,16 @@ const questions = [
         question: "El primer astronauta a trepitjar la Lluna va ser?",
         respostaCorrecta: "Neil Armstrong",
         respostaIncorrecta: "Louis Armstrong",
+    },
+    {
+        question: "Quien es mejor?",
+        respostaCorrecta: "Dani",
+        respostaIncorrecta: "Valentin",
+    },
+    {
+        question: "Mejor delegado?",
+        respostaCorrecta: "Ivan",
+        respostaIncorrecta: "Valentin",
     }
 ];
 
